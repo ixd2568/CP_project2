@@ -10,5 +10,9 @@ Extra Credit
 - is on GitHub at https://github.com/ixd2568/CP_project2
 
 Plugins
-====
+=======
 - for the three required plugins, it uses a lightbox, a back-to-top widget, and form validation
+
+URL
+===
+- http://people.rit.edu/ixd2568/project2/
